@@ -1,1 +1,1 @@
-# com.prism.defaultconfig
+# Default Config is located here
